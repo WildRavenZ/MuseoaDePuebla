@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Museos de Puebla</string>
+    <string name="museos">Muesos</string>
+    <string name="buscar">Buscar</string>
+    <string name="creditos">Créditos</string>
+    <string name="aleatorio">Aleatorio</string>
+
+    <string-array name="museoslist">
+        <item>Fonoteca Vicente Teódulo Mendoza</item>
+        <item>Galería Tesoros de Catedral</item>
+        <item>Museo de la Evolución Puebla</item>
+        <item>Casa de la Música de Viena en Puebla</item>
+        <item>Casa del Títere y Marionetas Mexicanas</item>
+        <item>Casa del Mendrugo</item>
+        <item>Museo José Luis Bello y González</item>
+        <item>Museo de la Talavera Poblana Armando </item>
+        <item>Museo Internacional del Barroco</item>
+        <item>Museo del Automóvil Puebla</item>
+        <item>Museo Regional de Cholula</item>
+        <item>Museo de Arte Popular Ex Convento de Santa Rosa</item>
+        <item>Museo Regional Casa de Alfeñique</item>
+        <item>Museo Regional de la Revolución Mexicana Casa de los Hermanos Serdán</item>
+        <item>Museo Nacional de los Ferrocarriles</item>
+        <item>Museo San Pedro de Arte</item>
+        <item>Museo Interactivo Infantil</item>
+        <item>Museo Amparo</item>
+        <item>Museo Fuerte de Guadalupe</item>
+        <item>Planetario de Puebla</item>
+    </string-array>
+
+    <string name="instrucciones">Oprime el botón de Buscar para encontrar el museo más cercano a ti</string>
+    <string name="datosapp">
+        Versión: 1.0.0
+        Autor: Fernando Franco Zago
+        Nombre: MuseosDePuebla
+        Fecha: 06/12/2022</string>
+
+</resources>
